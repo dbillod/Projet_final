@@ -1,0 +1,31 @@
+Ce fichier indique la forme que doivent avoir les données pour pouvoir être correctement utilisées par le programme.
+
+Les séries sont supposées être dans l'ordre chronologique et porter un nom avant leurs valeurs
+
+EXEMPLE: Pour une série y qui serait les 6 premiers entiers naturels, on aurait
+y
+1
+2
+3
+4
+5
+6
+
+N.B : ici les nombres à virgule devront être écrits avec un .
+
+Les séries doivent se suivre ainsi sans discontinuité ni ligne blanche en trop (cela est très important pour que le programme comprenne bien la structure des données)
+
+EXEMPLE: 
+y
+1
+2
+3
+x1
+4.5
+6
+9
+x2
+9
+8
+7
+
